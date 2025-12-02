@@ -1,32 +1,57 @@
-# PREMIUM AUTO CREATE TOOL
+PREMIUM AUTO CREATE TOOL
 
+Fast • Powerful • Automatic ID Creator
 
-# Open your Termux app and paste the following commands 
+------------------------------------------------------------------------
 
-```bash
-git clone https://github.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool.git
-cd Auto-Create-Prince-Tool
-python princeautocreate_enc.py
+🚀 Install & Run in Termux
+
+Paste these commands:
+
+    git clone https://github.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool.git
+    cd Auto-Create-Prince-Tool
+    python princeautocreate_enc.py
+
+------------------------------------------------------------------------
 
 ❓ FAQ
+
 Q: Tool run nahi ho raha?
-A: Make sure Termux is updated. Use: apt update && apt upgrade -y
+A: Termux update karo:
+
+    apt update && apt upgrade -y
 
 Q: Results save nahi ho rahe?
-A: Run termux-setup-storage and allow permission.
+A: Storage permission do:
 
+    termux-setup-storage
+
+------------------------------------------------------------------------
 
 👨‍💻 Developer Info
+
 👤 Name: Prince
 🌐 GitHub: https://github.com/Prince-Khof-Mackr
 📞 WhatsApp: +994409445548
-⭐ Feedback
-Please give a ⭐ on GitHub if you like the tool:
-https://github.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool.git
-⚠️ Legal Disclaimer
-📌 This tool is for educational purposes only.
-❌ Developer is not responsible for any misuse.
-🚫 Do not use on accounts you don’t own. Use at your own risk.
-🛠 Tool by Prince — Use Responsibly & Stay Ethical
 
-![Screenshot](https://raw.githubusercontent.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool/main/Screenshot_2025-12-02-13-27-40-668_com.termux.jpg)
+------------------------------------------------------------------------
+
+⭐ Feedback
+
+Agar tool pasand aaye to GitGitHub repo ko ⭐ zarur dena:
+https://github.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool.git
+
+------------------------------------------------------------------------
+
+⚠️ Legal Disclaimer
+
+📌 Tool sirf educational purpose ke liye hai
+❌ Developer misuse ka responsible nahi
+🚫 Kisi bhi account par bina permission use mat karo
+🛠 Tool by Prince — Use Responsibly
+
+------------------------------------------------------------------------
+
+📸 Screenshot
+
+[Screenshot]
