@@ -28,3 +28,5 @@ https://github.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool.git
 ❌ Developer is not responsible for any misuse.
 🚫 Do not use on accounts you don’t own. Use at your own risk.
 🛠 Tool by Prince — Use Responsibly & Stay Ethical
+
+![Screenshot](https://raw.githubusercontent.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool/main/Screenshot_2025-12-02-13-27-40-668_com.termux.jpg)
