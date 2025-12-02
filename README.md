@@ -54,4 +54,4 @@ https://github.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool.git
 
 📸 Screenshot
 
-[Screenshot]
+[[Screenshot](https://raw.githubusercontent.com/Prince-Khof-Mackr/Auto-Create-Prince-Tool/main/Screenshot_2025-12-02-13-27-40-668_com.termux.jpg)]
